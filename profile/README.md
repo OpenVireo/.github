@@ -23,13 +23,7 @@ Your vault is encrypted on your device before it is synced, so the server only e
 
 ### Repositories
 
-| Repository | What it is |
-|---|---|
-| [openvireo](https://github.com/OpenVireo/openvireo) | Desktop app for Windows, macOS and Linux, a fork of [KeePassXC](https://keepassxc.org) |
-| [openvireo-browser](https://github.com/OpenVireo/openvireo-browser) | Browser extension for Chrome, Firefox and Edge |
-| [openvireo-sdk](https://github.com/OpenVireo/openvireo-sdk) | TypeScript SDK, the `ov` CLI, connect server and GitHub Action |
-| [openvireo-sync-server](https://github.com/OpenVireo/openvireo-sync-server) | Encrypted vault sync server |
-| [openvireo-site](https://github.com/OpenVireo/openvireo-site) | Source for [openvireo.com](https://openvireo.com) |
+The pinned repositories below hold the desktop app ([openvireo](https://github.com/OpenVireo/openvireo), a fork of [KeePassXC](https://keepassxc.org)), the browser extension, the SDK and `ov` CLI, and the sync server. The source for [openvireo.com](https://openvireo.com) is in [openvireo-site](https://github.com/OpenVireo/openvireo-site).
 
 ### Get it
 
